@@ -38,8 +38,3 @@ This project is under the MIT License. See [LICENSE.md](LICENSE.md) for details.
 ## 📚 Related Repositories
 - [HealStruct-Material_Science](https://github.com/shamustappa/HealStruct-Material_Science): For storing research papers, summaries, and any code related to material science.
 - [HealStruct-Structural_Health](https://github.com/shamustappa/HealStruct-Structural_Health): Simulated structural health data and analysis for optimizing self-healing materials.
-- [HealStruct-EDA_Stats](https://github.com/shamustappa/HealStruct-EDA_Stats): For notebooks, scripts, or software related to exploratory data analysis.
-- [HealStruct-EDA_Visualizations](https://github.com/shamustappa/HealStruct-EDA_Visualizations): For notebooks, scripts, or software related to exploratory data analysis.
-- [HealStruct-Simulation](https://github.com/shamustappa/HealStruct-Simulation): For all simulation and modeling code, possibly broken down further by the software used (e.g., ANSYS, Rhino).
-- [HealStruct-Data_Analysis_ML](https://github.com/shamustappa/HealStruct-Data_Analysis_ML): For data analysis notebooks, machine learning models, and scripts.
-- [HealStruct-Evaluation](https://github.com/shamustappa/HealStruct-Evaluation): For metrics, evaluation scripts, and recommendation documents.
