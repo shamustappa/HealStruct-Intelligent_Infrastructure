@@ -40,6 +40,12 @@ This project is under the MIT License. See [LICENSE.md](LICENSE.md) for details.
 - [HealStruct-Material_Science](https://github.com/shamustappa/HealStruct-Material_Science): For storing research papers, summaries, and any code related to material science.
 - [HealStruct-Structural_Health](https://github.com/shamustappa/HealStruct-Structural_Health): Simulated structural health data and analysis for optimizing self-healing materials.
 =======
+<<<<<<< HEAD
 # HealStruct-Structural_Health
 Simulated structural health data and analysis for optimizing self-healing materials.
 >>>>>>> Structural_Health/main
+=======
+# HealStruct-Material_Science
+For storing academic papers, lab results, patents, and any code related to material science research.
+>>>>>>> Material_Science/main
+>>>>>>> main
