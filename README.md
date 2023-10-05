@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <img src="https://dl.dropboxusercontent.com/scl/fi/5fogqo4v3b0xw9fremrle/hs-thumbnail.png?rlkey=rz7b41bdwfzz1ai2tlf1unwz0&dl=0" alt="HealStruct Logo" width="100" align="left"/>
   <h1 align="center">HealStruct: Intelligent Self-Healing Infrastructure</h1>
@@ -38,3 +39,7 @@ This project is under the MIT License. See [LICENSE.md](LICENSE.md) for details.
 ## 📚 Related Repositories
 - [HealStruct-Material_Science](https://github.com/shamustappa/HealStruct-Material_Science): For storing research papers, summaries, and any code related to material science.
 - [HealStruct-Structural_Health](https://github.com/shamustappa/HealStruct-Structural_Health): Simulated structural health data and analysis for optimizing self-healing materials.
+=======
+# HealStruct-Structural_Health
+Simulated structural health data and analysis for optimizing self-healing materials.
+>>>>>>> Structural_Health/main
